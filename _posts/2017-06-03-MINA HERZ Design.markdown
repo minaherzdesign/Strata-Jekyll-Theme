@@ -2,7 +2,7 @@
 layout: post
 published: true
 ---
-<img src="/images/bg.jpg" class="fit image"> 
+<img src="/images/mina_herz_color-web.jpg" class="fit image"> 
 
 Graphic designer based in Tokyo with over 10 years of professional experience.
 I am passionate about design because I love colors and continuously try to achieve a beautiful balance in my work.
