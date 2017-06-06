@@ -10,29 +10,93 @@ layout: default
       </header>
       <section>
         {{ post.content }}
-        <p class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></p>
       </section>
     {% endfor %}
   </section>
 
-  <section>
+  <section id="two">
+            <h2>KIDS FASHION BLANDS : LOOKBOOK</h2>
+            <p>Catalogues of fashion brands for children.</p>
+            <div class="row">
+              <article class="4u 12u$(xsmall) work-item">
+                <a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
+                <h3>Magna sed consequat tempus</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u 12u$(xsmall) work-item">
+                <a href="images/fulls/02.jpg" class="image fit thumb"><img src="images/thumbs/02.jpg" alt="" /></a>
+                <h3>Ultricies lacinia interdum</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u$ 12u$(xsmall) work-item">
+                <a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/03.jpg" alt="" /></a>
+                <h3>Tortor metus commodo</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u 12u$(xsmall) work-item">
+                <a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
+                <h3>Quam neque phasellus</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u 12u$(xsmall) work-item">
+                <a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
+                <h3>Nunc enim commodo aliquet</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u$ 12u$(xsmall) work-item">
+                <a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
+                <h3>Risus ornare lacinia</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+            </div>
+           
+          </section>
+
+          <section id="two">
+            <h2>Recent Work</h2>
+            <div class="row">
+              <article class="4u 12u$(xsmall) work-item">
+                <a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
+                <h3>Magna sed consequat tempus</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u 12u$(xsmall) work-item">
+                <a href="images/fulls/02.jpg" class="image fit thumb"><img src="images/thumbs/02.jpg" alt="" /></a>
+                <h3>Ultricies lacinia interdum</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u$ 12u$(xsmall) work-item">
+                <a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/03.jpg" alt="" /></a>
+                <h3>Tortor metus commodo</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u 12u$(xsmall) work-item">
+                <a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
+                <h3>Quam neque phasellus</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u 12u$(xsmall) work-item">
+                <a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
+                <h3>Nunc enim commodo aliquet</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+              <article class="4u$ 12u$(xsmall) work-item">
+                <a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
+                <h3>Risus ornare lacinia</h3>
+                <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+              </article>
+            </div>
+           
+          </section>
+
+<!--   <section id="threww">
+    <h2>Recent Work</h2>
     <div class="row">
       {% for post in site.posts offset:1 %}
-        <article class="{% cycle '6u', '6u$' %} 12u(small)">
-          <header>
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          </header>
-          <section>
+        <article class="{% cycle '6u', '6u$' %} 12u(xsmall) work-item">
             {{ post.excerpt }}
-          </section>
-          <footer>
-            <ul class="actions">
-              <li><a href="{{ post.url }}" class="button">Read More</a></li>
-              <li class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></li>
-            </ul>
-          </footer>
         </article>
       {% endfor %}
     </div>
-  </section>
+  </section> -->
 </div>

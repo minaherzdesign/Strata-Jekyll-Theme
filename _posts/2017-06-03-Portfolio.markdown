@@ -1,10 +1,6 @@
 ---
 layout: post
-published: true
 ---
-<img src="/images/mina_herz_color-web.jpg" class="fit image"> 
-
-Graphic designer based in Tokyo with over 10 years of professional experience.
-I am passionate about design because I love colors and continuously try to achieve a beautiful balance in my work.
-I enjoy experimenting with layout and color combinations.
-I have been an art director for various international fashion brands (casual and sports) and also have experience with freelance work.
+<a href="images/fulls/02.jpg" style="cursor: pointer; outline: 0px;" class="image fit thumb"><img src="/images/thumbs/02.jpg" class="fit image" alt="Hello"></a>
+<h3>Magna sed consequat tempus</h3>
+<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>

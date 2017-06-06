@@ -1,8 +1,6 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Catalogue direction and design for 2 seasons.
-Photoshoots, including management :location hunting and scheduling.
-Web design (image pictures for the site)
-Display and poster design for shops.
-Social media publicity.
+<a href="images/fulls/02.jpg" style="cursor: pointer; outline: 0px;" class="image fit thumb"><img src="/images/thumbs/02.jpg" class="fit image" alt="Hello"></a>
+<h3>Magna sed consequat tempus</h3>
+<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
