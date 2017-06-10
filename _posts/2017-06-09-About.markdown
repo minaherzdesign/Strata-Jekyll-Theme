@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<a href="images/fulls/01.jpg" style="cursor: pointer; outline: 0px;" class="image fit thumb"><img src="/images/thumbs/01.jpg" class="fit image" alt="Hello"></a>
+<a href="images/fulls/01.jpg" style="cursor: pointer; outline: 0px;" class="image fit thumb"><img src="/images/fulls/01.jpg" class="fit image" alt="Hello"></a>
 <h3>Mina Ohyama</h3>
 <p>Graphic designer based in Tokyo with over 10 years of professional experience. I am
 passionate about design because I love colors and continuously try to achieve a
